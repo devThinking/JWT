@@ -10,7 +10,7 @@ alg : 해싱 알고리즘
 }
 
 # Payload
-JWT 속성 정보 (Claim)
+JWT 속성 정보 (Claim)\n
 iss: 토큰 발급자 (issuer)
 sub: 토큰 제목 (subject)
 aud: 토큰 대상자 (audience)
